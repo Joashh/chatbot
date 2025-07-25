@@ -2,7 +2,7 @@
 
 This is an experimental chatbot project powered by AI, showcasing the capabilities of large language models (LLMs) through natural conversation.
 
-![Chatbot Screenshot](./www.png) <!-- Make sure this image exists in your repo -->
+![Chatbot Screenshot](./wwww.png) <!-- Make sure this image exists in your repo -->
 
 ---
 
